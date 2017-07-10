@@ -11,5 +11,10 @@ This vender machine project is written in Java following object-oriented program
 3. Runtime performance
 
 
-4. This projects should have unit tests to ensure stability.
-  To be continued....
+4. In the future
+  1). write unit tests for each function/feature to maintain stability.
+  2). add more type of products
+  3). add more payment approaches, like cash.
+  4). add more type of venders.
+  5). support mmultiple motors.
+  6). add more services in user interface.
