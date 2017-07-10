@@ -8,8 +8,8 @@ This vender machine project is written in Java following object-oriented program
 2. System Architecture
 
 
-3. Runtime performance
-
+3. Play Demo
+![Demo](http://url/to/img.png)
 
 4. In the future
   1). write unit tests for each function/feature to maintain stability.
