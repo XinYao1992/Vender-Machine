@@ -12,6 +12,7 @@ This vender machine project is written in Java following object-oriented program
 ![Demo](https://github.com/XinYao1992/Vender-Machine/blob/master/result.png)
 
 4. In the future
+
   1). write unit tests for each function/feature to maintain stability.
   2). add more type of products
   3). add more payment approaches, like cash.
