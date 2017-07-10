@@ -2,19 +2,19 @@
 
 This vender machine project is written in Java following object-oriented programming principles. 
 
-Overview
+##Overview##
 
   This vending machine can vender different products to users, supporting different payment approaches. It handles different    type of venders which can dispense, check, and add products into it. It also contains useful interface to provide services to users when they are purchasing.
   
-System Architecture
+##System Architecture##
 
 
 
-Play Demo
+##Play Demo##
 
 ![Demo](https://github.com/XinYao1992/Vender-Machine/blob/master/result.png)
 
-In the future
+##In the future##
 
   1). write unit tests for each function/feature to maintain stability.
   
