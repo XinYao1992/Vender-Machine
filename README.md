@@ -1,6 +1,6 @@
 # Vender-Machine
 
-This vender machine project is written in Java following object-oriented programming principles. 
+This vender machine project is written in Java following object-oriented programming principles and factory pattern.
 
 ## Overview
 
