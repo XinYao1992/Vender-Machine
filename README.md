@@ -9,6 +9,7 @@ This vender machine project is written in Java following object-oriented program
   
 ## System Architecture
 
+![System Architecture](https://github.com/XinYao1992/Vender-Machine/blob/master/system_architecture.png)
 
 
 
